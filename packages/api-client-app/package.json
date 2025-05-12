@@ -42,7 +42,7 @@
     "@scalar/api-client": "workspace:*",
     "@scalar/components": "workspace:*",
     "@scalar/themes": "workspace:*",
-    "@todesktop/runtime": "^1.6.3",
+    "@todesktop/runtime": "^2.1.2",
     "electron-window-state": "^5.0.3",
     "fathom-client": "^3.7.2"
   },
