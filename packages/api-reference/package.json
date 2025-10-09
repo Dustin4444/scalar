@@ -98,7 +98,7 @@
     "@storybook/vue3": "^8.0.8",
     "@storybook/vue3-vite": "^8.0.8",
     "@vitejs/plugin-vue": "^5.0.4",
-    "@vitest/coverage-v8": "^1.6.0",
+    "@vitest/coverage-v8": "^2.0.0",
     "@vue/test-utils": "^2.4.1",
     "postcss": "^8.4.38",
     "rollup-plugin-webpack-stats": "^0.2.5",
