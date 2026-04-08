@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "@clack/prompts": "^0.7.0",
-    "@hono/node-server": "^1.11.0",
+    "@hono/node-server": "^1.19.13",
     "@parcel/watcher": "^2.4.1",
     "@scalar/api-reference": "workspace:*",
     "@scalar/mock-server": "workspace:*",
