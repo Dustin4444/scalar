@@ -82,7 +82,7 @@
     "httpsnippet-lite": "^3.0.5",
     "nanoid": "^5.0.7",
     "postcss-nested": "^6.0.1",
-    "unhead": "^1.8.3",
+    "unhead": "^2.1.13",
     "unified": "^11.0.4",
     "vue": "^3.4.29"
   },
