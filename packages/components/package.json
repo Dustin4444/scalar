@@ -78,7 +78,7 @@
     "jsdom": "^22.1.0",
     "npm-run-all2": "^6.1.1",
     "plugins": "^0.4.2",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.18",
     "postcss-prefix-selector": "^1.16.0",
     "storybook": "^8.0.8",
     "storybook-dark-mode": "^4.0.1",
