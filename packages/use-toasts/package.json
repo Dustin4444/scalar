@@ -38,7 +38,7 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "nanoid": "^5.0.7",
+    "nanoid": "^5.1.16",
     "vue": "^3.4.29",
     "vue-sonner": "^1.0.3"
   },
